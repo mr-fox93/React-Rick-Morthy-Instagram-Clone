@@ -1,0 +1,11 @@
+.left_panel {
+  display: flex;
+  flex-direction: column;
+  flex: 0.5;
+  text-align: center;
+}
+
+.left_panel > img {
+  width: 400px;
+  margin-top: 40px;
+}

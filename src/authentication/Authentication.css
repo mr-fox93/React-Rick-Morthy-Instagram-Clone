@@ -1,0 +1,43 @@
+.authentication {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 3rem;
+}
+
+.left_auth {
+  flex: 0.5;
+  text-align: center;
+}
+
+.rigth_auth {
+  flex: 0.5;
+}
+
+.left_auth > img {
+  width: 400px;
+  margin-top: 40px;
+}
+
+.more_auth {
+  border: 1px solid grey;
+  border-radius: 6px;
+  padding: 20px;
+  text-align: center;
+  margin-top: 15px;
+}
+
+.more_auth > span {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.more_auth > span > button {
+  background: 0;
+  color: #0095f6;
+  font-weight: bolder;
+  border: none;
+}
+
+.more_auth > span > button:hover {
+  cursor: pointer;
+}

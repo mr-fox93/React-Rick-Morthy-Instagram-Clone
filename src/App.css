@@ -1,0 +1,12 @@
+html {
+  background-color: black;
+  color: white;
+}
+
+.app {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  justify-content: center;
+  align-items: center;
+  padding: 3rem;
+}
