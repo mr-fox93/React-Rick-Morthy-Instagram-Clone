@@ -1,4 +1,4 @@
-THIS PROJECR IS STILL IN PROGRESS !!
+THIS PROJECT IS STILL IN PROGRESS !!
 
 Base on: https://rickandmortyapi.com
 
